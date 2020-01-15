@@ -2,6 +2,8 @@
 
 This Project is a demonstration of basic features of react.js.
 
+![Monster App Screenshot](screenshot.jpg)
+
 ## Pre-requisites
 
 - Ensure node and npm and yarn are installed on your development computer
