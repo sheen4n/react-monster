@@ -3,17 +3,16 @@
 This Project is a demonstration of basic features of react.js.
 
 ## Pre-requisites
+
 - Ensure node and npm and yarn are installed on your development computer
 
 ### Steps to Run the Project
 
 To run the application, do the following:
-1)Run the command: yarn
-2)Then: yarn start
-3) Enjoy!
 
-
-
+- Run the command: yarn
+- Then: yarn start
+- Enjoy!
 
 --- Default Readme from CRNA --
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
